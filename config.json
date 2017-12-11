@@ -1,0 +1,22 @@
+{
+    "app_id" : "com.mssatisakademisi.tolmobile",
+    "appname": "MS Satış Akademisi TOL Mobile",
+    "desktopappname": "MS Satış Akademisi TOL Desktop",
+    "versioncode" : "20190",
+    "versionname" : "3.3.2",
+    "cache_expiration_time" : 300000,
+    "default_lang" : "tr",
+    "languages": {"ar": "عربي", "bg": "Български", "ca": "Català", "cs": "Čeština", "da": "Dansk", "de": "Deutsch", "el": "Ελληνικά", "en": "English", "es": "Español", "es-mx": "Español - México", "eu": "Euskara", "fa": "فارسی", "fr" : "Français", "he" : "עברית", "hu": "magyar", "it": "Italiano", "lt" : "Lietuvių", "ja": "日本語","nl": "Nederlands", "pl": "Polski", "pt-br": "Português - Brasil", "pt": "Português - Portugal", "ro": "Română", "ru": "Русский", "sr-cr": "Српски", "sr-lt": "Srpski", "sv": "Svenska", "tr" : "Türkçe", "uk" : "Українська", "zh-cn" : "简体中文", "zh-tw" : "正體中文"},
+    "wsservice" : "moodle_mobile_app",
+    "wsextservice" : "local_mobile",
+    "gcmpn": "694767596569",
+    "customurlscheme": "tolmobile",
+    "presets" : {"url": "https://www.mssatisakademisi.com/tol", "": ""},
+	"siteurl": "https://www.mssatisakademisi.com/tol",
+    "skipssoconfirmation": "false",
+    "forcedefaultlanguage": "false",
+    "privacypolicy": "https://www.mssatisakademisi.com/tol"
+	"demo_sites": [],
+	"notifications_enabled": "true",
+	"dev_debug": "false",
+}
