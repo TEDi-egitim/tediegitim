@@ -65708,8 +65708,8 @@ angular.module('mm.core')
     "app_id" : "com.mssatisakademisi.tolmobile",
     "appname": "MS Satış Akademisi TOL Mobile",
     "desktopappname": "MS Satış Akademisi TOL Desktop",
-	"versioncode" : "20190",
-    "versionname" : "3.3.2",
+    "versioncode" : "2017.1",
+    "versionname" : "1.1.8",
     "cache_expiration_time" : 300000,
     "default_lang" : "tr",
     "languages": {"tr" : "Türkçe"},
@@ -65718,9 +65718,9 @@ angular.module('mm.core')
     "demo_sites":"",
     "gcmpn": "694767596569",
     "customurlscheme": "tolmobile",
-    "siteurl": "https://www.mssatisakademisi.com/tol",
+    "siteurl": "http://www.mssatisakademisi.com/tol",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
-    "privacypolicy": "https://www.mssatisakademisi.com/tol"
+    "privacypolicy": "http://www.mssatisakademisi.com/tol"
 }
 );
